@@ -1,5 +1,7 @@
 ### -V
 
+[![Discord Bots](https://top.gg/api/widget/785607160243552348.svg)](https://top.gg/bot/785607160243552348)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voltranex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
