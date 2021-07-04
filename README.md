@@ -1,8 +1,10 @@
 ### -V
-
-[![Discord Bots](https://top.gg/api/widget/785607160243552348.svg )](https://top.gg/bot/785607160243552348 )                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voltranex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a href="https://top.gg/bot/785607160243552348">
+  <img align="center" src="https://top.gg/api/widget/785607160243552348.svg" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltranex&layout=compact&theme=dark" />
+</a>
 <!--
 **Voltranex/voltranex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
