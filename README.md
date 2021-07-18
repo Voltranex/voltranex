@@ -5,6 +5,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltranex&layout=compact&theme=dark" />
 </a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=voltranex&theme=react-dark)
+
 <!--
 **Voltranex/voltranex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
