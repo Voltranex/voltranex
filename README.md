@@ -2,11 +2,9 @@
 <a href="https://top.gg/bot/785607160243552348">
   <img align="center" src="https://top.gg/api/widget/785607160243552348.svg" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/voltranex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltranex&layout=compact&theme=dark" />
 </a>
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=voltranex&theme=react-dark)
 
 <!--
 **Voltranex/voltranex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
