@@ -3,7 +3,7 @@
   <img align="center" src="https://top.gg/api/widget/785607160243552348.svg" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=voltranex&layout=compact&theme=dark">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltranex&layout=compact&theme=dark" />
 </a>
 
 <!--
